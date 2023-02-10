@@ -41,7 +41,7 @@
     <a><img height="30" alt="git" src="https://camo.githubusercontent.com/eb88d34dc21a1762c4097fb7b8a56202198c252561d7ac4fb245d8388091c3eb/68747470733a2f2f65372e706e676567672e636f6d2f706e67696d616765732f3731332f3535382f706e672d636c69706172742d636f6d70757465722d69636f6e732d70726f2d6769742d6769746875622d6c6f676f2d746578742d6c6f676f2d7468756d626e61696c2e706e67" data-canonical-src="https://e7.pngegg.com/pngimages/713/558/png-clipart-computer-icons-pro-git-github-logo-text-logo-thumbnail.png" style="max-width:100%;"></a>
     
 <h2> Contactame <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<a href = 'https://www.linkedin.com/in/https://www.linkedin.com/in/nabil-allis/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
+<a href = 'https://www.linkedin.com/in/nabil-allis/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://www.github.com/Nabil014'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
 
 
