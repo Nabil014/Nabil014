@@ -10,16 +10,16 @@
 <div >
 <img align="right" width="auto" height = "100" src="https://static.wixstatic.com/media/669128_ec1c7a78e9694aec8a07c2e48b292ae1~mv2.gif" alt="cover" />
 </div>
-<p>Soy Nabil Allis, apasionado por la programación y la tecnología! :smile: :computer: <p/>
+<p>Soy Nabil Allis, argentino, apasionado por la programación y la tecnología! :smile: :computer: <p/>
 
- Egresado de  Full Stack Web Developer 🎓 de <a href="https://www.soyhenry.com">www.soyhenry.com</a>, estoy interesado en el mundo del desarrollo de software y también por el aprendizaje constante de nuevas tecnologías.
+ Full Stack Web Developer 🎓 stack MERN y PERN. Con mucho interés y dedicado full time a seguir creciendo como Desarrollador Web.
 </p>
 
 <h3> Idiomas: :speech_balloon: </h3>
 <p>
-    <p> <img alt="ES" src="https://png.pngtree.com/png-clipart/20200401/original/pngtree-spain-flag-transparent-watercolor-painted-brush-png-image_5331199.jpg" height="22" data-canonical-src="https://png.pngtree.com/png-clipart/20200401/original/pngtree-spain-flag-transparent-watercolor-painted-brush-png-image_5331199.jpg" style="max-width:100%;"> Nativo
+    <p> <img alt="ES" src="https://png.pngtree.com/png-clipart/20200401/original/pngtree-spain-flag-transparent-watercolor-painted-brush-png-image_5331199.jpg" height="22" data-canonical-src="https://png.pngtree.com/png-clipart/20200401/original/pngtree-spain-flag-transparent-watercolor-painted-brush-png-image_5331199.jpg" style="max-width:100%;"> 
     </p>
-    <p> <img src="https://e7.pngegg.com/pngimages/922/661/png-clipart-england-business-english-service-industry-united-kingdom-child-english.png" alt="UK" height="22" data-canonical-src="https://e7.pngegg.com/pngimages/922/661/png-clipart-england-business-english-service-industry-united-kingdom-child-english.png" style="max-width:100%;"> Básico
+    <p> <img src="https://e7.pngegg.com/pngimages/922/661/png-clipart-england-business-english-service-industry-united-kingdom-child-english.png" alt="UK" height="22" data-canonical-src="https://e7.pngegg.com/pngimages/922/661/png-clipart-england-business-english-service-industry-united-kingdom-child-english.png" style="max-width:100%;"> 
     </p>
 </p>
 
