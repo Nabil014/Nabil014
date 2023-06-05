@@ -47,11 +47,5 @@
 <a href = 'https://www.github.com/Nabil014'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
 
 
-<p align='center'>
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Nabil014)
-
-</p>
-
 <!--
 
