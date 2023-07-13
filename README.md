@@ -9,8 +9,8 @@
 
 <div >
 <img align="right" width="auto" height = "100" src="https://static.wixstatic.com/media/669128_ec1c7a78e9694aec8a07c2e48b292ae1~mv2.gif" alt="cover" />
- <img align="right" width="auto" height = "100" src="https://giphy.com/embed/fuJPZBIIqzbt1kAYVc"></img>
-</div>
+ <img align="right" width="auto" height = "100" src="https://giphy.com/embed/fuJPZBIIqzbt1kAYVc" alt="cover" />
+ </div>
 <p>Soy Nabil Allis, argentino, apasionado por la programación y la tecnología! :smile: :computer: <p/>
 
  Full Stack Web Developer 🎓 stack MERN y PERN. Con mucho interés y dedicado full time a seguir creciendo como Desarrollador Web.
