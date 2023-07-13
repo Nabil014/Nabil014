@@ -9,7 +9,7 @@
 
 <div >
 <img align="right" width="auto" height = "100" src="https://static.wixstatic.com/media/669128_ec1c7a78e9694aec8a07c2e48b292ae1~mv2.gif" alt="cover" />
- <img align="right" width="auto" height = "100" src="https://giphy.com/embed/fuJPZBIIqzbt1kAYVc" alt="cover" />
+  <div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/fuJPZBIIqzbt1kAYVc" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/HostGator-webhosting-hostgator-webhost-fuJPZBIIqzbt1kAYVc">via GIPHY</a></p>
  </div>
 <p>Soy Nabil Allis, argentino, apasionado por la programación y la tecnología! :smile: :computer: <p/>
 
