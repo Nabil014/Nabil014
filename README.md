@@ -9,7 +9,7 @@
 
 <div >
 <img align="right" width="auto" height = "100" src="https://static.wixstatic.com/media/669128_ec1c7a78e9694aec8a07c2e48b292ae1~mv2.gif" alt="cover" />
-<img align="right" width="auto" height = "100" src="https://i.giphy.com/media/fuJPZBIIqzbt1kAYVc/giphy.webp" alt="cover" />
+<img align="right" width="auto" height = "300" src="https://i.giphy.com/media/fuJPZBIIqzbt1kAYVc/giphy.webp" alt="cover" />
   
 <p>Soy Nabil Allis, argentino, apasionado por la programación y la tecnología! :smile: :computer: <p/>
 
