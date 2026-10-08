@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:0EA5E9&height=180&section=header&text=Nabil%20Allis&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Full%20Stack%20Developer%20%C2%B7%20Team%20Leader&descSize=18&descAlignY=60" alt="Nabil Allis - Full Stack Developer" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=6366F1&center=true&vCenter=true&width=620&height=40&lines=4%2B+years+building+production+web+applications;Frontend+%7C+Backend+%7C+Technical+Leadership;Clean%2C+scalable%2C+maintainable+code" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=6366F1&center=true&vCenter=true&width=620&height=40&lines=3%2B+years+building+production+web+applications;Frontend+%7C+Backend+%7C+Technical+Leadership;Clean%2C+scalable%2C+maintainable+code" alt="Typing animation" />
 
 <br/>
 
