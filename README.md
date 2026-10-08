@@ -15,7 +15,7 @@
 
 ## About Me
 
-Full Stack Developer with **more than 4 years of experience** designing, building and shipping web applications end to end. I currently work as **Team Leader at useTeam**, where I combine hands-on development with architecture decisions, code reviews and technical mentoring.
+Full Stack Developer with **more than 3 years of experience** designing, building and shipping web applications end to end. I currently work as **Team Leader at useTeam**, where I combine hands-on development with architecture decisions, code reviews and technical mentoring.
 
 - Building modern products with **TypeScript** across the stack: **NestJS, Prisma and PostgreSQL** on the backend, **React, Next.js and Vite** on the frontend, shipped with **Docker and AWS**.
 - Focused on code quality, performance and great user experience.
