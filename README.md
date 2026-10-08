@@ -17,7 +17,7 @@
 
 Full Stack Developer with **more than 4 years of experience** designing, building and shipping web applications end to end. I currently work as **Team Leader at useTeam**, where I combine hands-on development with architecture decisions, code reviews and technical mentoring.
 
-- Building modern products with **React, Next.js, Remix and Astro** on the frontend, and **Node.js, Express and PostgreSQL** on the backend.
+- Building modern products with **TypeScript** across the stack: **NestJS, Prisma and PostgreSQL** on the backend, **React, Next.js and Vite** on the frontend, shipped with **Docker and AWS**.
 - Focused on code quality, performance and great user experience.
 - Collaborative by nature: I enjoy leading teams and helping other developers grow.
 - Based in Argentina. Languages: Spanish (native), English.
@@ -29,29 +29,29 @@ Full Stack Developer with **more than 4 years of experience** designing, buildin
 <h4>Languages</h4>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=js,ts,html,css&perline=10&theme=dark">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css&perline=10&theme=light" alt="js, ts, html, css" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,js,python,html,css&perline=10&theme=dark">
+  <img src="https://skillicons.dev/icons?i=ts,js,python,html,css&perline=10&theme=light" alt="ts, js, python, html, css" />
+</picture>
+
+<h4>Backend</h4>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nestjs,nodejs,express,prisma,postgres,mongodb,rabbitmq,socketio,jest&perline=10&theme=dark">
+  <img src="https://skillicons.dev/icons?i=nestjs,nodejs,express,prisma,postgres,mongodb,rabbitmq,socketio,jest&perline=10&theme=light" alt="nestjs, nodejs, express, prisma, postgres, mongodb, rabbitmq, socketio, jest" />
 </picture>
 
 <h4>Frontend</h4>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,nextjs,remix,astro,vue,redux,tailwind,vite&perline=10&theme=dark">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,remix,astro,vue,redux,tailwind,vite&perline=10&theme=light" alt="react, nextjs, remix, astro, vue, redux, tailwind, vite" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,redux,remix,astro,vue&perline=10&theme=dark">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,redux,remix,astro,vue&perline=10&theme=light" alt="react, nextjs, vite, tailwind, redux, remix, astro, vue" />
 </picture>
 
-<h4>Backend & Databases</h4>
+<h4>Cloud & DevOps</h4>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb&perline=10&theme=dark">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb&perline=10&theme=light" alt="nodejs, express, postgres, mongodb" />
-</picture>
-
-<h4>Tools & Cloud</h4>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,github,docker,aws,vercel,cloudflare,vscode&perline=10&theme=dark">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,vercel,cloudflare,vscode&perline=10&theme=light" alt="git, github, docker, aws, vercel, cloudflare, vscode" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=aws,docker,githubactions,git,github,vercel,cloudflare&perline=10&theme=dark">
+  <img src="https://skillicons.dev/icons?i=aws,docker,githubactions,git,github,vercel,cloudflare&perline=10&theme=light" alt="aws, docker, githubactions, git, github, vercel, cloudflare" />
 </picture>
 
 </div>
