@@ -29,22 +29,22 @@ Full Stack Developer with **more than 3 years of experience** designing, buildin
 <h4>Languages</h4>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,js,python,html,css&perline=10&theme=dark">
-  <img src="https://skillicons.dev/icons?i=ts,js,python,html,css&perline=10&theme=light" alt="ts, js, python, html, css" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts%2Cjs%2Cpython%2Chtml%2Ccss&perline=10&theme=dark">
+  <img src="https://skillicons.dev/icons?i=ts%2Cjs%2Cpython%2Chtml%2Ccss&perline=10&theme=light" alt="ts, js, python, html, css" />
 </picture>
 
 <h4>Backend</h4>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nestjs,nodejs,express,prisma,postgres,mongodb,rabbitmq,socketio,jest&perline=10&theme=dark">
-  <img src="https://skillicons.dev/icons?i=nestjs,nodejs,express,prisma,postgres,mongodb,rabbitmq,socketio,jest&perline=10&theme=light" alt="nestjs, nodejs, express, prisma, postgres, mongodb, rabbitmq, socketio, jest" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nestjs%2Cnodejs%2Cexpress%2Cprisma%2Cpostgres%2Cmongodb%2Crabbitmq%2Csocketio%2Cjest&perline=10&theme=dark">
+  <img src="https://skillicons.dev/icons?i=nestjs%2Cnodejs%2Cexpress%2Cprisma%2Cpostgres%2Cmongodb%2Crabbitmq%2Csocketio%2Cjest&perline=10&theme=light" alt="nestjs, nodejs, express, prisma, postgres, mongodb, rabbitmq, socketio, jest" />
 </picture>
 
 <h4>Frontend</h4>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,redux,remix,astro,vue&perline=10&theme=dark">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,redux,remix,astro,vue&perline=10&theme=light" alt="react, nextjs, vite, tailwind, redux, remix, astro, vue" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react%2Cnextjs%2Cvite%2Ctailwind%2Credux%2Cremix%2Castro%2Cvue&perline=10&theme=dark">
+  <img src="https://skillicons.dev/icons?i=react%2Cnextjs%2Cvite%2Ctailwind%2Credux%2Cremix%2Castro%2Cvue&perline=10&theme=light" alt="react, nextjs, vite, tailwind, redux, remix, astro, vue" />
 </picture>
 
 <h4>Integrations & APIs</h4>
@@ -56,8 +56,8 @@ Full Stack Developer with **more than 3 years of experience** designing, buildin
 <h4>Cloud & DevOps</h4>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=aws,docker,githubactions,git,github,vercel,cloudflare&perline=10&theme=dark">
-  <img src="https://skillicons.dev/icons?i=aws,docker,githubactions,git,github,vercel,cloudflare&perline=10&theme=light" alt="aws, docker, githubactions, git, github, vercel, cloudflare" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=aws%2Cdocker%2Cgithubactions%2Cgit%2Cgithub%2Cvercel%2Ccloudflare&perline=10&theme=dark">
+  <img src="https://skillicons.dev/icons?i=aws%2Cdocker%2Cgithubactions%2Cgit%2Cgithub%2Cvercel%2Ccloudflare&perline=10&theme=light" alt="aws, docker, githubactions, git, github, vercel, cloudflare" />
 </picture>
 
 </div>
