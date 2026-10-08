@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="288" viewBox="0 0 420 288" role="img" aria-label="Most used languages">
+<style>
+  .bg { fill: #ffffff; stroke: #d0d7de; }
+  .title { fill: #1f2328; font: 600 16px -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; }
+  .label { fill: #1f2328; font: 500 13px -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; }
+  .pct { fill: #59636e; font: 500 12px -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; }
+  .track { fill: #eaeef2; }
+  @media (prefers-color-scheme: dark) {
+    .bg { fill: #0d1117; stroke: #30363d; }
+    .title, .label { fill: #e6edf3; }
+    .pct { fill: #9198a1; }
+    .track { fill: #21262d; }
+  }
+</style>
+<rect class="bg" x="0.5" y="0.5" width="419" height="287" rx="10"/>
+<text class="title" x="24" y="36">Most Used Languages</text>
+<text class="label" x="24" y="74">TypeScript</text>
+<rect class="track" x="130" y="65" width="230" height="10" rx="5"/>
+<rect x="130" y="65" width="176.8" height="10" rx="5" fill="#3178C6"/>
+<text class="pct" x="372" y="74">76.9%</text>
+<text class="label" x="24" y="104">JavaScript</text>
+<rect class="track" x="130" y="95" width="230" height="10" rx="5"/>
+<rect x="130" y="95" width="30.1" height="10" rx="5" fill="#F1E05A"/>
+<text class="pct" x="372" y="104">13.1%</text>
+<text class="label" x="24" y="134">HTML</text>
+<rect class="track" x="130" y="125" width="230" height="10" rx="5"/>
+<rect x="130" y="125" width="12.5" height="10" rx="5" fill="#E34C26"/>
+<text class="pct" x="372" y="134">5.4%</text>
+<text class="label" x="24" y="164">CSS</text>
+<rect class="track" x="130" y="155" width="230" height="10" rx="5"/>
+<rect x="130" y="155" width="6.0" height="10" rx="5" fill="#663399"/>
+<text class="pct" x="372" y="164">2.1%</text>
+<text class="label" x="24" y="194">Python</text>
+<rect class="track" x="130" y="185" width="230" height="10" rx="5"/>
+<rect x="130" y="185" width="6.0" height="10" rx="5" fill="#3572A5"/>
+<text class="pct" x="372" y="194">0.8%</text>
+<text class="label" x="24" y="224">EJS</text>
+<rect class="track" x="130" y="215" width="230" height="10" rx="5"/>
+<rect x="130" y="215" width="6.0" height="10" rx="5" fill="#8B5CF6"/>
+<text class="pct" x="372" y="224">0.6%</text>
+<text class="label" x="24" y="254">Other</text>
+<rect class="track" x="130" y="245" width="230" height="10" rx="5"/>
+<rect x="130" y="245" width="6.0" height="10" rx="5" fill="#8B949E"/>
+<text class="pct" x="372" y="254">1.1%</text>
+</svg>

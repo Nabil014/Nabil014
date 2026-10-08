@@ -61,6 +61,7 @@ Full Stack Developer with **more than 4 years of experience** designing, buildin
 <div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Nabil014&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
+<img height="170" src="assets/languages.svg" alt="Most used languages" />
 
 </div>
 
