@@ -47,6 +47,12 @@ Full Stack Developer with **more than 4 years of experience** designing, buildin
   <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,redux,remix,astro,vue&perline=10&theme=light" alt="react, nextjs, vite, tailwind, redux, remix, astro, vue" />
 </picture>
 
+<h4>Integrations & APIs</h4>
+
+<img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe" />
+<img src="https://img.shields.io/badge/Mercado_Pago-00B1EA?style=for-the-badge&logo=mercadopago&logoColor=white" alt="Mercado Pago" />
+<img src="https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge&logo=elevenlabs&logoColor=white" alt="ElevenLabs" />
+
 <h4>Cloud & DevOps</h4>
 
 <picture>
