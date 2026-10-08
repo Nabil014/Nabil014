@@ -47,11 +47,11 @@ Full Stack Developer with **more than 4 years of experience** designing, buildin
   <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb&perline=10&theme=light" alt="nodejs, express, postgres, mongodb" />
 </picture>
 
-<h4>Tools & Deployment</h4>
+<h4>Tools & Cloud</h4>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,github,vercel,cloudflare,vscode&perline=10&theme=dark">
-  <img src="https://skillicons.dev/icons?i=git,github,vercel,cloudflare,vscode&perline=10&theme=light" alt="git, github, vercel, cloudflare, vscode" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,github,docker,aws,vercel,cloudflare,vscode&perline=10&theme=dark">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,vercel,cloudflare,vscode&perline=10&theme=light" alt="git, github, docker, aws, vercel, cloudflare, vscode" />
 </picture>
 
 </div>
@@ -61,7 +61,6 @@ Full Stack Developer with **more than 4 years of experience** designing, buildin
 <div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Nabil014&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nabil014&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 
 </div>
 
