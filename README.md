@@ -73,7 +73,7 @@ Full Stack Developer with **more than 3 years of experience** designing, buildin
 
 ## Let's Connect
 
-Have a project in mind or want to collaborate? Reach out on [LinkedIn](https://www.linkedin.com/in/nabil-allis/) or visit my [portfolio]([https://nabil-allis.vercel.app/](https://nabil-allis-portfolio.vercel.app/)).
+Have a project in mind or want to collaborate? Reach out on [LinkedIn](https://www.linkedin.com/in/nabil-allis/) or visit my [portfolio]([nabil-allis](https://nabil-allis-portfolio.vercel.app/)).
 
 <div align="center">
 
