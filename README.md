@@ -6,7 +6,7 @@
 
 <br/>
 
-<a href="https://nabil-allis-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-nabil-allis-portfolio.vercel.app-6366F1?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="https://nabil-allis-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-nabil--allis--portfolio.vercel.app-6366F1?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/nabil-allis/"><img src="https://img.shields.io/badge/LinkedIn-nabil--allis-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
 </div>
@@ -73,7 +73,7 @@ Full Stack Developer with **more than 3 years of experience** designing, buildin
 
 ## Let's Connect
 
-Have a project in mind or want to collaborate? Reach out on [LinkedIn](https://www.linkedin.com/in/nabil-allis/) or visit my [portfolio]([https://nabil-allis-portfolio.vercel.app/](https://nabil-allis-portfolio.vercel.app/)).
+Have a project in mind or want to collaborate? Reach out on [LinkedIn](https://www.linkedin.com/in/nabil-allis/) or visit my [portfolio](https://nabil-allis-portfolio.vercel.app/).
 
 <div align="center">
 
